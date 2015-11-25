@@ -1,3 +1,3 @@
 # faceDetectOpenCV
-Real time face detection and recognition
+Real time face detection
 
