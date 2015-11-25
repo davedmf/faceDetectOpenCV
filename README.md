@@ -1,3 +1,3 @@
 # faceDetectOpenCV
-OpenCV 3.0 demo for real time face detection. 
+Real time face detection and recognition
 
